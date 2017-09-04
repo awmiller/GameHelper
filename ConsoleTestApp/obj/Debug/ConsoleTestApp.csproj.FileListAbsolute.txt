@@ -1,0 +1,6 @@
+c:\users\andremil\documents\visual studio 2015\Projects\ConsoleTestApp\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe.config
+c:\users\andremil\documents\visual studio 2015\Projects\ConsoleTestApp\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe
+c:\users\andremil\documents\visual studio 2015\Projects\ConsoleTestApp\ConsoleTestApp\bin\Debug\ConsoleTestApp.pdb
+c:\users\andremil\documents\visual studio 2015\Projects\ConsoleTestApp\ConsoleTestApp\obj\Debug\ConsoleTestApp.csprojResolveAssemblyReference.cache
+c:\users\andremil\documents\visual studio 2015\Projects\ConsoleTestApp\ConsoleTestApp\obj\Debug\ConsoleTestApp.exe
+c:\users\andremil\documents\visual studio 2015\Projects\ConsoleTestApp\ConsoleTestApp\obj\Debug\ConsoleTestApp.pdb
